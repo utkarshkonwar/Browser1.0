@@ -1,0 +1,45 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #navbar {
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
+  #navbar input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  #navbar button {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  #content {
+    padding: 20px;
+  }
+  
+  /* Add more styles for tabs, history, bookmarks, etc. */
+  
+  /* Add styles for other UI components as needed */
+  
+  /* Add styles for various modes (e.g., anonymous mode, examination mode) */
+  
+  /* Add styles for privacy and security features (e.g., incognito mode, anti-tracking) */
+  
+  /* Add styles for personalized and adaptive UI based on AI/ML models */
+  
+  /* Add styles for AR/VR and Meta-verse integration */
+  
+  /* Add styles for parental control and kids' mode */
+  
+  /* Add styles for other features like PDF support, print, page zooming, etc. */
+  
